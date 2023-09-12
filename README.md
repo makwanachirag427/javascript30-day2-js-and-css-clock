@@ -10,6 +10,11 @@ This repository contains my solution for Project 2 of the JavaScript30 coding ch
 - **Project:** JavaScript and CSS Clock
 - **Day:** 2
 
+## Demo
+
+https://makwanachirag427.github.io/javascript30-day2-js-and-css-clock/
+
+
 ## Features
 
 - Real-time analog clock with hour, minute, and second hands.
